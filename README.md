@@ -1,4 +1,8 @@
 
 ![design develop optimize](https://github.com/jpineda48/jpineda48/assets/135978440/0b6db802-50d8-46ab-a0f6-01f2ef8a1180)
 
-Hi I am Jacqueline! I’m a software engineer and creative who recently switched from the tactile to the digital world! I am currently completing a coding bootcamp at General Assembly. I have a background in apparel production and design where I learned how to design, create and produce high quality consumer products. As a software engineer I optimize creativity and technical design to create effective, efficient and user-friendly experiences. Attention to detail, excellent verbal and written communication skills and the ability to view a product from the production and consumer side are a few skills that I have been able to translate into software engineering. What do I love most about being a software engineer? The endless learning! The continual room for growth and skill-based learning reminds me everyday I made the right choice to start a new career in tech.
+Hi I am Jacqueline! 
+
+I’m a software engineer and creative who recently switched from the tactile to the digital world!  As a software engineer I optimize creativity and technical design to create effective, efficient and user-friendly experiences. 
+
+ What do I love most about being a software engineer? The endless learning! The continual room for growth and skill-based learning reminds me everyday why I love what I do!
