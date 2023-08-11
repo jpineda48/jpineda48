@@ -1,5 +1,4 @@
 
-![design develop optimize](https://github.com/jpineda48/jpineda48/assets/135978440/0b6db802-50d8-46ab-a0f6-01f2ef8a1180)
 
 Hi I am Jacqueline! 
 
